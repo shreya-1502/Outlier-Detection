@@ -9,4 +9,7 @@ Identifying Outliers:
 In statistics, the Z-score (or standard score) is a measure that quantifies how many standard deviations a data point is from the mean of a dataset. It's commonly used to identify outliers in a dataset by flagging observations that deviate significantly from the mean.
 The Z-score for a data point x in a dataset with mean μ and standard deviation σ is calculated using the following formula:
 Z= (x−μ) / σ
+
+# Boxplot Visualization
+Box plots are a great visualization tool for detecting outliers in a dataset. In a box plot, outliers are often represented as individual points beyond "whiskers" that extend from the box. 
 ​
